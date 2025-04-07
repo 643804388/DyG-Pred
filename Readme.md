@@ -13,3 +13,5 @@ DyG-Pred
     L: data
     L: models
     L: utils
+
+The code of algorithm will be made updated after the article is published
